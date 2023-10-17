@@ -1,0 +1,3 @@
+// dump all data from the db
+
+db.school.find();
