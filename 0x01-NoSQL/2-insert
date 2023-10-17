@@ -1,3 +1,3 @@
-//insert document in  a collection named scholl
+// insert json data
 
-school({"name": "Holberton school"})
+db.school.insert({name: "Holberton school"})
