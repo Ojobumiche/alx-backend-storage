@@ -1,3 +1,3 @@
-// get the size of the docuemnt
+// get the size of the docuemnt.
 
 db.school.count();
