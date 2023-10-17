@@ -1,0 +1,3 @@
+// delete documents with using filter name="holberton school"
+
+db.school.deleteMany({name: "Holberton school"});
